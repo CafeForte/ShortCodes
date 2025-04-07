@@ -1,2 +1,2 @@
 # ShortCodes
-Código-fonte Java de exemplos curtos discutidos nos vídeos do Café Forte Academic Channel (Youtube)
+Código-fonte C++ e Java de exemplos curtos discutidos nos vídeos do Café Forte Academic Channel (Youtube)
